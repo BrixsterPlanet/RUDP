@@ -2,3 +2,4 @@
 .DS_Store
 
 lib/socketCache.js
+.vscode/settings.json
